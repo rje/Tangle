@@ -1,0 +1,15 @@
+{
+    "default": "osx",
+    "osx": {
+        "axes": [
+            {"name": "yaw", "negative key": "LeftArrow", "positive key": "RightArrow"},
+            {"name": "pitch", "negative key": "UpArrow", "positive key": "DownArrow"},
+            {"name": "roll", "negative key": "Q", "positive key": "E"},
+            {"name": "throttle", "negative key": "Minus", "positive key": "Equals"}
+        ],
+        
+        "buttons": [
+            {"name": "laser", "key": "Space"}
+        ]
+    }
+}

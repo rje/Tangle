@@ -1,0 +1,15 @@
+{
+    "default": "osx",
+    "osx": {
+        "axes": [
+            {"name": "yaw", "axis": "joystick 1 axis 1"},
+            {"name": "pitch", "axis": "joystick 1 axis 2", "invert": true},
+            {"name": "roll", "axis": "joystick 1 axis 3"},
+            {"name": "throttle", "axis": "joystick 1 axis 4", "invert": true, "snaps": false}
+        ],
+        
+        "buttons": [
+            {"name": "laser", "button": "joystick 1 button 0"}
+        ]
+    }
+}
